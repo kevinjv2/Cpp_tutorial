@@ -8,7 +8,6 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Standard](https://img.shields.io/badge/Estándar-C%2B%2B17-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/Licencia-MIT-2da44e?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Estado-En%20construcción-orange?style=for-the-badge)
 
 </div>
@@ -66,7 +65,7 @@ int main() {
 
 ## 🗺️ Roadmap de aprendizaje
 <p align="center">
-  <img src="img/roadmapCpp.png" width="80%" alt="Hermes Banner">
+  <img src="img/roadmapCpp.png" width="90%" alt="Hermes Banner">
 </p>
 ## 📂 Estructura del repositorio
 
@@ -135,12 +134,3 @@ Las contribuciones son bienvenidas. Si encuentras un error, tienes una mejora o 
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes usar, copiar, modificar y distribuir el contenido con la única condición de mantener el crédito al autor original.
-
----
-
-<div align="center">
-  <sub>Hecho con dedicación por Kevin Ramón Jacobo Sánchez · 2026</sub>
-</div>
