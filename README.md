@@ -65,7 +65,9 @@ int main() {
 ---
 
 ## 🗺️ Roadmap de aprendizaje
-
+<p align="center">
+  <img src="img/roadmapCpp.png" width="80%" alt="Hermes Banner">
+</p>
 ## 📂 Estructura del repositorio
 
 ```
