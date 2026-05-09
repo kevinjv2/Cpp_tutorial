@@ -9,7 +9,7 @@
 # Carpetas de build
 build/
 bin/
-
+output/
 # VS Code
 .vscode/
 
