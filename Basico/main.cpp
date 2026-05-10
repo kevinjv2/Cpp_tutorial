@@ -1,10 +1,7 @@
 #include <iostream>
-using namespace std;
+
 int main() {
+    std :: cout << "HELLO WORLD";
 
-    int hola = 2;
-
-    cout << "HELLO WORLD";
-    cin >> hola;
     return 0;
 }

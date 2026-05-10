@@ -3,19 +3,17 @@
 
 int main() {
 
-    // ---------------- IF -----------------
-    /*
+    // --------------- IF -----------------
+    
     int n = 20;
     int b = 50;
 
     if( n < b) {
         std :: cout << "20 es mayor a 50 \n";
     }
-    */
-
-
+    
     // ---------------- IF ELSE -----------------
-    /*
+    
     int x;
     int y;
 
@@ -37,33 +35,27 @@ int main() {
         std :: cout << "Es inicio de semana \n";
     }
 
-    */
-    
-
-
     // --------- Short Hand If Else --------------
-    /*
+    
     int time = 20;
     
     std :: string result = ( time < 18) ? "Good morning. " : "Good evening.";
     std :: cout << result;
 
-
-
     // --------- Nested if --------------
 
-    int n1 = 200;
-    int n2 = 150;
+    int ns = 200;
+    int nb = 150;
 
-    if (n1 > n2 ) {
-        std :: cout << n1 << " Es mayor que:  150 \n";  
-    if ( n2 < n1) {
-        std :: cout << n2 << " Es menor que: 200";
+    if (ns > nb ) {
+        std :: cout << ns << " Es mayor que:  150 \n";  
+    if ( nb < ns) {
+        std :: cout << nb << " Es menor que: 200";
         }
     }
-    */
+    
 
-
+    // -------------- SWITCH --------------
     char operador;
     int n1, n2;
 
